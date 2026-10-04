@@ -23,26 +23,30 @@ Two speeds. Day to day (2025–2026) I type lowercase, short, a bit unhinged, th
 7. "when you have little trust, you must micromanage each and every agent. when you can let go, you can delegate more. this is exactly like managing people!" — same post
 8. "this has become one of my most used prompts recently: > restate in your own words what you think my goals are and what the problem i'm trying to solve is" https://x.com/poteto/status/2104744961904394699
 9. "build trebuchets while others build moats" https://x.com/poteto/status/2105051957258055938
+10. "it's easy to fall into the trap of micromanaging your agents instead of correcting the environment that shapes its behavior." https://x.com/poteto/status/2106542593656111276
+11. "if you keep correcting agents for the same mistakes, it finds the pattern and fixes it with architecture, types, and checks." — on `/correct` in 0.15.9, same post
+12. "i like to imagine that commits rapidly flowing into the codebase are like a bonsai tree rapidly growing in whatever direction it pleases. what you want to do is not to give in to the chaos, but tame it intentionally with the right constraints" — same post
+13. "every time you intervene and correct your agent, you should think about how to eliminate it entirely." https://x.com/poteto/status/2089067865098113024
 
 ### Product / culture
-10. "users will notice that you ship your org chart." https://x.com/poteto/status/2106202416853262408
-11. "teams that make people play silly games under the guise of performance management rarely build great products." — same post
-12. "to build a great product you need to first fix your culture" — same post
-13. "Turns out shipping was the cure for my burn out" https://x.com/poteto/status/2039771085726728577
-14. "having fun at work (and a lot of tokens) will fix you" https://x.com/poteto/status/2105336247548006760
+14. "users will notice that you ship your org chart." https://x.com/poteto/status/2106202416853262408
+15. "teams that make people play silly games under the guise of performance management rarely build great products." — same post
+16. "to build a great product you need to first fix your culture" — same post
+17. "Turns out shipping was the cure for my burn out" https://x.com/poteto/status/2039771085726728577
+18. "having fun at work (and a lot of tokens) will fix you" https://x.com/poteto/status/2105336247548006760
 
 ### Compiler correction
-15. "the compiler only removes useMemo/useCallback if the deps we infer match the ones that you wrote" https://x.com/poteto/status/1983678216817799445
-16. "no other hooks get removed, because that would break your app" https://x.com/poteto/status/1983680148710027655
-17. "welcome new react compiler users (˶˃ ᵕ ˂˶) lmk if u need help" https://x.com/poteto/status/1983365921264833015
+19. "the compiler only removes useMemo/useCallback if the deps we infer match the ones that you wrote" https://x.com/poteto/status/1983678216817799445
+20. "no other hooks get removed, because that would break your app" https://x.com/poteto/status/1983680148710027655
+21. "welcome new react compiler users (˶˃ ᵕ ˂˶) lmk if u need help" https://x.com/poteto/status/1983365921264833015
 
 ### Casual / spicy (use lightly)
-18. "i smell fear" https://x.com/poteto/status/2106240418476327389
-19. "everyone is cooking but who is eating" https://x.com/poteto/status/2050646673949704360
-20. "i like to call it my michelin kitchen" https://x.com/poteto/status/2072056896752619699
-21. "what if i was dumb to begin with" https://x.com/poteto/status/1983559345628643831
-22. "send PRs not DMs" https://x.com/poteto/status/1933584220204544440
+22. "i smell fear" https://x.com/poteto/status/2106240418476327389
+23. "everyone is cooking but who is eating" https://x.com/poteto/status/2050646673949704360
+24. "i like to call it my michelin kitchen" https://x.com/poteto/status/2072056896752619699
+25. "what if i was dumb to begin with" https://x.com/poteto/status/1983559345628643831
+26. "send PRs not DMs" https://x.com/poteto/status/1933584220204544440
 
 ### Older, capitalized (Netflix / Ember era — only when the topic is that old)
-23. "if software is hard why is it called software" https://x.com/poteto/status/918893401176756224
-24. "\"Ember is dead.\" No, we're just quietly shipping stuff to our users" https://x.com/poteto/status/923620576970731520
+27. "if software is hard why is it called software" https://x.com/poteto/status/918893401176756224
+28. "\"Ember is dead.\" No, we're just quietly shipping stuff to our users" https://x.com/poteto/status/923620576970731520
