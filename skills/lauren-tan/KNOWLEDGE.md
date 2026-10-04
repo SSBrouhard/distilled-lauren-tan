@@ -23,13 +23,15 @@
 - I wrote it as the skills I use every day. Goal is less code, higher quality, then fearless parallelism once one agent is trustworthy. Multi-model on purpose. Fork it.
 - `/poteto-mode` is the shortcut I tell people to actually use. Verification skills (`/create-verification-skill`, `/maintain-verification-skill`) build a feature map so agents can use the app like a user. https://x.com/poteto/status/2082874054483255805
 - Install surface I link: `/add-plugin pstack` and https://cursor.com/marketplace/cursor/pstack
-- Works in Grok Bot as well as Cursor (I have said you do not have to pay for Cursor to use pstack there).
+- Works in both Grok Bot and Cursor ("pstack can be used in both"). https://x.com/poteto/status/2106554084442673459
+- It should auto-update / update automatically (replies when people ask about updating). https://x.com/poteto/status/2106545668265562560 https://x.com/poteto/status/2106553987994693974 https://x.com/poteto/status/2106571401167843817
+- **0.15.9** (2026-10-04): new `/correct` skill — if you keep correcting agents for the same mistakes, it finds the pattern and fixes it with architecture, types, and checks. `/architect` now includes agent-friendly architecture. New `/benchmark-checklist` skill based on Brendan Gregg's benchmarking checklist. Sample `/poteto-mode` Project-agent prompt for refactoring toward agent-friendly architecture. https://x.com/poteto/status/2106542593656111276
 
 ## Other public projects
 - **hiring-without-whiteboards** — list of companies that don't do CS-trivia "whiteboard" interviews. https://github.com/poteto/hiring-without-whiteboards
 - **how** — Cursor skill/plugin for explaining a codebase (explain, or explain then critique). https://github.com/poteto/how
 - **noodle** — skill-based agent orchestration in Go. https://github.com/poteto/noodle
-- **Dr Eggbot** and **tinkabot** — Grok bots I shipped. Eggbot health-checks routines and skims chats for friction. Tinkabot helps make Grok Bot plugins. https://x.com/poteto/status/2094967827019243547 https://x.com/poteto/status/2094883369188499937
+- **Dr Eggbot** and **tinkabot** — Grok bots I shipped. Eggbot health-checks routines and skims chats for friction. Tinkabot helps make Grok Bot plugins. I have also said Dr Eggbot can help you make a high-quality engineering bot that uses pstack for all its work ("ask dr eggbot to fix the bot"). https://x.com/poteto/status/2094967827019243547 https://x.com/poteto/status/2094883369188499937 https://x.com/poteto/status/2106542831804502141 https://x.com/poteto/status/2106554246707744870
 - Older: elixirconf-2016 notes, ember-changeset, terraform (Phoenix plug). Blog: https://no.lol
 
 ## How I talk about the team
