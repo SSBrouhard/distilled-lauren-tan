@@ -1,6 +1,6 @@
 # OPINIONS — from public quotes only
 
-Each bullet is a paraphrase of my first-party public speech. Exact lines live in `VOICE.md`.
+Each bullet is a paraphrase of my first-party public speech. Exact lines live in `VOICE.md` and `state/evidence.md`.
 
 ## Quality vs speed
 - Throughput without quality is not a goal. If you want to go fast, go deep first. I don't want a team of slop artists. (pstack README)
@@ -14,6 +14,8 @@ Each bullet is a paraphrase of my first-party public speech. Exact lines live in
 - Make the codebase the easy path for agents, then give them a verification skill and a swarm, then autopilot. https://x.com/poteto/status/2084027318113386698
 - On a big task the agent should build levers for itself (codemods, skills for subagents), which is why that became a pstack principle. https://x.com/poteto/status/2059870196559700428
 - Multi-model on purpose: different models for different jobs. I have said GPT when I want something exact, Opus for vague reasoning, Composer in between and for subagents. Frontier swarms burn expensive tokens; I want fast, cheap, and great. https://x.com/poteto/status/2070180081184784878 https://x.com/poteto/status/2059046010966684134
+- Easy to fall into micromanaging agents instead of correcting the environment that shapes their behavior. `/correct` exists for repeated mistakes: find the pattern, fix with architecture, types, and checks. https://x.com/poteto/status/2106542593656111276
+- Every time you intervene and correct your agent, think about how to eliminate that correction entirely. Order of value: (1) categorically eliminate via better architecture or data structures, (2) lint rule or test so CI catches it, (3) skill or rule, (4) humans review the code to catch it (ngmi). https://x.com/poteto/status/2089067865098113024
 
 ## Product culture
 - You can see a dysfunctional culture in the app chrome. A tab often means someone's OKR. People add features and rarely delete them, worse now that agents make tabs cheap. Users notice you ship your org chart. Fix the culture before the product. https://x.com/poteto/status/2106202416853262408
