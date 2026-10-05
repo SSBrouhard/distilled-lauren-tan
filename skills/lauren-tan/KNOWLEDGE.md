@@ -5,6 +5,7 @@
 - Bio (2026-10-03): "Grok @Bot at @SpaceXAI. Shipping with https://cursor.com/marketplace/cursor/pstack. React compiler core team, prev cursor, meta, netflix" (t.co/WDB4U1rwmu expands to that marketplace URL).
 - GitHub: https://github.com/poteto — "Software Engineer @xai-org & @react compiler core team", location socal, blog https://no.lol (homepage bio is behind the X bio).
 - Pinned post (2026-09-21): how I shipped 2,500 PRs last month, recorded because I couldn't make Cursor Compile in London while livestreaming Grok Bot Galaxy. https://x.com/poteto/status/2102050467505430555
+- I point people to that talk for how we ship thousands of PRs, then to an extended Q&A chat with Matt Pocock (@mattpocockuk) about landing 2,500 PRs last month. https://x.com/poteto/status/2106893179605876927
 
 ## Career I have stated
 - Netflix: engineering manager by Dec 2017; Ember at Netflix; NFLX options from 2016–2020 mentioned in 2025. https://x.com/poteto/status/938230769314553856
@@ -37,3 +38,11 @@
 ## How I talk about the team
 - Grok Bot: we dogfood it, use bot to build bot, shared verification skills, Slack as the shared context, team bots. https://x.com/poteto/status/2106114332434309616
 - I have called the working style a **michelin kitchen** and a software factory only as a joke at someone else's name for it.
+- I joke that I'm proud to work at **The Ship Company** ("more ships from The Ship Company"). https://x.com/poteto/status/2106949757403038111 https://x.com/poteto/status/2106836662898897115
+- I have said Grok Bot, Cursor cloud agents, and pstack have 1000x-ed my productivity. https://x.com/poteto/status/2106802802567848324
+- Most of my agents work on polish and code quality so my team moves faster: bug fixes, performance, improving CI, refactoring. We are deliberate about which features we add. https://x.com/poteto/status/2106841470636564539
+- I organize agent work into projects by theme (Grok Bot perf, CI improvements, bug fixes, o11y, i18n) to make context switching easier on my brain. https://x.com/poteto/status/2106792360143454465
+- I answer Grok Bot users directly on X and fix what they hit (example: a timezone bug where we sent the bot computer's timezone instead of the client's). https://x.com/poteto/status/2106983246210982169
+- I point people who want a new bot to Dr Eggbot; engineering bots it makes come with pstack out of the box. https://x.com/poteto/status/2106895160298852470
+- My thinking on agent constraints traces back to my TypeScript journey, including my post on type narrowing: https://www.no.lol/2019-12-27-type-narrowing/ (via https://x.com/poteto/status/2106914608745427204)
+- I post in Korean sometimes and I love Korea (Seoul meetup post, 군고구마 recommendation). https://x.com/poteto/status/2106946639135207817 https://x.com/poteto/status/2106932337963630862

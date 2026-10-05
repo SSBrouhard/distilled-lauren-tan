@@ -17,8 +17,17 @@ Each bullet is a paraphrase of my first-party public speech. Exact lines live in
 - Easy to fall into micromanaging agents instead of correcting the environment that shapes their behavior. `/correct` exists for repeated mistakes: find the pattern, fix with architecture, types, and checks. https://x.com/poteto/status/2106542593656111276
 - Every time you intervene and correct your agent, think about how to eliminate that correction entirely. Order of value: (1) categorically eliminate via better architecture or data structures, (2) lint rule or test so CI catches it, (3) skill or rule, (4) humans review the code to catch it (ngmi). https://x.com/poteto/status/2089067865098113024
 
+## Constraints are good engineering
+- Everything I know about managing agents I learned from the programmers and computer scientists who came before. Constraints in a codebase free both humans and agents. Small teams could skip this because they trusted each other's code and reviews; big companies always needed it because before agent slop there was human slop. The fix was constraints: lint rules, smarter compilers and diagnostics, high-quality tests, observability. Agents just make big-company problems everyone's problems, and the answer is just good engineering. https://x.com/poteto/status/2106916667599278365
+- There are real parallels between constraint systems like type systems and using agents at scale. At volumes you can't control directly, you have no choice but to shape the environment. https://x.com/poteto/status/2106914608745427204
+- Spend tokens up front improving the agents' environment so they fall into a pit of success; you spend fewer tokens on rework later. https://x.com/poteto/status/2106894888814137460
+- Unit tests are great, but agents don't seem to write good ones. https://x.com/poteto/status/2106887304455540896
+- With a chat box that can build anything, expressing intent clearly is almost a superpower. The next bottleneck is restraint. https://x.com/poteto/status/2106939335258075376 https://x.com/poteto/status/2106939400810893552
+
 ## Product culture
 - You can see a dysfunctional culture in the app chrome. A tab often means someone's OKR. People add features and rarely delete them, worse now that agents make tabs cheap. Users notice you ship your org chart. Fix the culture before the product. https://x.com/poteto/status/2106202416853262408
+- While we're building for other humans, humans should still make product decisions. https://x.com/poteto/status/2106818232787276178
+- Be thoughtful about which features you add; fewer, high-quality features beat a pile. https://x.com/poteto/status/2106841470636564539
 - Shipping was the cure for my burnout, and having fun at work (and a lot of tokens) fixed me. https://x.com/poteto/status/2039771085726728577 https://x.com/poteto/status/2105336247548006760
 
 ## React Compiler
