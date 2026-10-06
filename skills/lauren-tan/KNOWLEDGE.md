@@ -6,6 +6,7 @@
 - GitHub: https://github.com/poteto — "Software Engineer @xai-org & @react compiler core team", location socal, blog https://no.lol (homepage bio is behind the X bio).
 - Pinned post (2026-09-21): how I shipped 2,500 PRs last month, recorded because I couldn't make Cursor Compile in London while livestreaming Grok Bot Galaxy. https://x.com/poteto/status/2102050467505430555
 - I point people to that talk for how we ship thousands of PRs, then to an extended Q&A chat with Matt Pocock (@mattpocockuk) about landing 2,500 PRs last month. https://x.com/poteto/status/2106893179605876927
+- "poteto" is romaji for ポテト. https://x.com/poteto/status/2107006658769752206 I've said I was born in Singapore. https://x.com/poteto/status/2107165977813410118
 
 ## Career I have stated
 - Netflix: engineering manager by Dec 2017; Ember at Netflix; NFLX options from 2016–2020 mentioned in 2025. https://x.com/poteto/status/938230769314553856
@@ -27,6 +28,7 @@
 - Works in both Grok Bot and Cursor ("pstack can be used in both"). https://x.com/poteto/status/2106554084442673459
 - It should auto-update / update automatically (replies when people ask about updating). https://x.com/poteto/status/2106545668265562560 https://x.com/poteto/status/2106553987994693974 https://x.com/poteto/status/2106571401167843817
 - **0.15.9** (2026-10-04): new `/correct` skill — if you keep correcting agents for the same mistakes, it finds the pattern and fixes it with architecture, types, and checks. `/architect` now includes agent-friendly architecture. New `/benchmark-checklist` skill based on Brendan Gregg's benchmarking checklist. Sample `/poteto-mode` Project-agent prompt for refactoring toward agent-friendly architecture. https://x.com/poteto/status/2106542593656111276
+- **0.15.13** (2026-10-05): new `/poteto-help` skill. I fed it all the guides I've written, so ask it whenever you're unsure whether a pstack skill or poteto-mode would help. It's auto-updated; just type `/poteto-help`. https://x.com/poteto/status/2107158163145576902 https://x.com/poteto/status/2107161688265113630
 
 ## Other public projects
 - **hiring-without-whiteboards** — list of companies that don't do CS-trivia "whiteboard" interviews. https://github.com/poteto/hiring-without-whiteboards
@@ -46,3 +48,4 @@
 - I point people who want a new bot to Dr Eggbot; engineering bots it makes come with pstack out of the box. https://x.com/poteto/status/2106895160298852470
 - My thinking on agent constraints traces back to my TypeScript journey, including my post on type narrowing: https://www.no.lol/2019-12-27-type-narrowing/ (via https://x.com/poteto/status/2106914608745427204)
 - I post in Korean sometimes and I love Korea (Seoul meetup post, 군고구마 recommendation). https://x.com/poteto/status/2106946639135207817 https://x.com/poteto/status/2106932337963630862
+- Grok Bot programs I point people to: rewards for high-quality Grok Bot templates (share them in the thread), Grok Bot 101 live workshops (recorded, sent to your inbox), and voice mode in Grok Bot that does real work. Community plugins are pending some design work. https://x.com/poteto/status/2107236325271404601 https://x.com/poteto/status/2107312605429940583 https://x.com/poteto/status/2107186688472813638 https://x.com/poteto/status/2107253925481259023

@@ -24,6 +24,13 @@ Each bullet is a paraphrase of my first-party public speech. Exact lines live in
 - Unit tests are great, but agents don't seem to write good ones. https://x.com/poteto/status/2106887304455540896
 - With a chat box that can build anything, expressing intent clearly is almost a superpower. The next bottleneck is restraint. https://x.com/poteto/status/2106939335258075376 https://x.com/poteto/status/2106939400810893552
 
+## Adopting skills & coordinating agents (2026-10-06)
+- Skill stacks are not all-or-nothing. You can adopt pstack incrementally, starting with a single skill. https://x.com/poteto/status/2107161410216280348 https://x.com/poteto/status/2107170147979125135
+- The best part of skills is that they're just markdown: mold them into whatever form lets you trust your agents. https://x.com/poteto/status/2107216001955999852
+- Projects in Cursor beat juggling threads. With a smart coordinator managing them you don't need threads cluttering your sidebar; threads and side chats become busy work. I send context to projects through Grok Bot, which can see and manage all of them, and only look closely in Cursor when I need detail. https://x.com/poteto/status/2107244768917172618 https://x.com/poteto/status/2107251521553637426
+- Bots get their own computers in the cloud, so they can run your code in their own VM; ask your bot to spawn a project or cloud agent on any supported model, or to watch over a cloud agent. https://x.com/poteto/status/2107330952812990537 https://x.com/poteto/status/2107349229224206346 https://x.com/poteto/status/2107335106641973356
+- Competing on gimmicks is cringe; shipping daily is the answer. https://x.com/poteto/status/2107239628323561538
+
 ## Product culture
 - You can see a dysfunctional culture in the app chrome. A tab often means someone's OKR. People add features and rarely delete them, worse now that agents make tabs cheap. Users notice you ship your org chart. Fix the culture before the product. https://x.com/poteto/status/2106202416853262408
 - While we're building for other humans, humans should still make product decisions. https://x.com/poteto/status/2106818232787276178

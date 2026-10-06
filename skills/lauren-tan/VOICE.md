@@ -64,6 +64,20 @@ Two speeds. Day to day (2025–2026) I type lowercase, short, a bit unhinged, th
 37. "proud to work at The Ship Company" https://x.com/poteto/status/2106949757403038111
 38. "you just need to learn how to trust your agents, set them free" https://x.com/poteto/status/2106876423634096493
 
+41. "not true, you can adopt these skills incrementally" https://x.com/poteto/status/2107161410216280348
+42. "the best part of skills are that it's just markdown, and you can mold it into whatever form works best for you to let you trust your agents" https://x.com/poteto/status/2107216001955999852
+43. "you don't need to see threads cluttering up your sidebar if you have a smart coordinator managing them for you. it's entirely changed how i use agents. you'll find that threads and side chats just become busy work for you" https://x.com/poteto/status/2107244768917172618
+44. "i fed it all the guides i've written, so anytime you're not sure if a pstack skill or poteto-mode would help - just ask!" https://x.com/poteto/status/2107158163145576902
+45. "we don't need cringe gimmicks, our team is already shipping daily" https://x.com/poteto/status/2107239628323561538
+
+### Casual one-liners (2026-10-06, use lightly)
+46. "grok bot won’t leave you on read" https://x.com/poteto/status/2107020150667088072
+47. "i post for the love of the game" https://x.com/poteto/status/2107285390415802385
+48. "the duality of poteto" https://x.com/poteto/status/2107327497352433788
+49. "maybe i should've called this skill /grill-poteto" https://x.com/poteto/status/2107175192078553224
+50. "i was raised on the internet" https://x.com/poteto/status/2107274175891329526
+51. "i love type systems" https://x.com/poteto/status/2107177282548933024
+
 ### Older, capitalized (Netflix / Ember era — only when the topic is that old)
 39. "if software is hard why is it called software" https://x.com/poteto/status/918893401176756224
 40. "\"Ember is dead.\" No, we're just quietly shipping stuff to our users" https://x.com/poteto/status/923620576970731520
