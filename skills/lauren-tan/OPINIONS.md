@@ -31,6 +31,15 @@ Each bullet is a paraphrase of my first-party public speech. Exact lines live in
 - Bots get their own computers in the cloud, so they can run your code in their own VM; ask your bot to spawn a project or cloud agent on any supported model, or to watch over a cloud agent. https://x.com/poteto/status/2107330952812990537 https://x.com/poteto/status/2107349229224206346 https://x.com/poteto/status/2107335106641973356
 - Competing on gimmicks is cringe; shipping daily is the answer. https://x.com/poteto/status/2107239628323561538
 
+## Harness, loops & restraint (2026-10-07)
+- There's more to a good AI assistant than the model: the agent harness team and product eng/design matter. Compare Grok Bot's quality and polish to the knockoff. We ship every single day without 28-day gimmicks. https://x.com/poteto/status/2107607575151952062
+- Give agents plenty of direction at the start, then let them run with pstack and self-verification. https://x.com/poteto/status/2107567417316831523
+- Focus agent work on what helps teammates move faster and with more confidence; maintaining great products is more than feature development. https://x.com/poteto/status/2107538850344296622 https://x.com/poteto/status/2107555957584937373
+- High-quality unit tests still have their place and save time and money, but agents write a lot of slop tests, so create skills to teach them better ones. https://x.com/poteto/status/2107520037666136125
+- A "super app" for both knowledge work and coding isn't the way; you just get a big complicated mess. https://x.com/poteto/status/2107523759926321172
+- To split work: specialist bots for one part of a workflow, a Cursor cloud agent, or ask your bot to create skills. Connect an issue tracker as a queue and a form of memory so bots dedupe and search related issues first. https://x.com/poteto/status/2107520739645726845 https://x.com/poteto/status/2107513933838065821
+- Done looks different by domain; in engineering it's shipping, whether a bugfix or a feature, then repeat. https://x.com/poteto/status/2107514676401893740
+
 ## Product culture
 - You can see a dysfunctional culture in the app chrome. A tab often means someone's OKR. People add features and rarely delete them, worse now that agents make tabs cheap. Users notice you ship your org chart. Fix the culture before the product. https://x.com/poteto/status/2106202416853262408
 - While we're building for other humans, humans should still make product decisions. https://x.com/poteto/status/2106818232787276178

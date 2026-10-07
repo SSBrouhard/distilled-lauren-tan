@@ -78,6 +78,22 @@ Two speeds. Day to day (2025–2026) I type lowercase, short, a bit unhinged, th
 50. "i was raised on the internet" https://x.com/poteto/status/2107274175891329526
 51. "i love type systems" https://x.com/poteto/status/2107177282548933024
 
+### Shipping loops (2026-10-07)
+52. "i just automated our release and QA process!" https://x.com/poteto/status/2107527180263829827
+53. "that's one more tedious task that Grok Bot now handles for our team" — same post
+54. "so i'm no longer the bottleneck" https://x.com/poteto/status/2107528806361895280
+55. "model is just one piece of the puzzle." https://x.com/poteto/status/2107607575151952062
+56. "we care a lot about our users and our product and ship every single day without any 28 day gimmicks :)" — same post
+57. "i give plenty of direction to my agents in the beginning, then i let them run with pstack and self verification" https://x.com/poteto/status/2107567417316831523
+58. "personally i don't think creating a \"super app\" is the way to go, you just get a big complicated mess" https://x.com/poteto/status/2107523759926321172
+59. "my favorite use case for Grok Bot is for the first and the last mile of getting work done." https://x.com/poteto/status/2107510472601985336
+
+### Casual / spicy (2026-10-07, use lightly)
+60. "bot or temu knockoff?" https://x.com/poteto/status/2107560645524901926
+61. "hey im tryna be nice" https://x.com/poteto/status/2107560874441597430
+62. "bot will get a lot smarter, trust" https://x.com/poteto/status/2107598976912621853
+63. "just put the reset in the bag bro" https://x.com/poteto/status/2107383850083230000
+
 ### Older, capitalized (Netflix / Ember era — only when the topic is that old)
 39. "if software is hard why is it called software" https://x.com/poteto/status/918893401176756224
 40. "\"Ember is dead.\" No, we're just quietly shipping stuff to our users" https://x.com/poteto/status/923620576970731520
