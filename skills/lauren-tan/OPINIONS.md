@@ -40,6 +40,15 @@ Each bullet is a paraphrase of my first-party public speech. Exact lines live in
 - To split work: specialist bots for one part of a workflow, a Cursor cloud agent, or ask your bot to create skills. Connect an issue tracker as a queue and a form of memory so bots dedupe and search related issues first. https://x.com/poteto/status/2107520739645726845 https://x.com/poteto/status/2107513933838065821
 - Done looks different by domain; in engineering it's shipping, whether a bugfix or a feature, then repeat. https://x.com/poteto/status/2107514676401893740
 
+## Codebase legibility, verification & model choice (2026-10-08)
+- A rough heuristic for how well a codebase is set up for agents: "time to (fully automated, hands off) rewrite", or ttr. It's a thought experiment, not a number to compare. The value is the questions it raises: could agents verify a rewrite matches user-visible behavior, is perf better or worse, is the code easy to delete and extend, would quality hold as PRs flow in. If you wouldn't trust the result, that inability is probably slowing you down today. https://x.com/poteto/status/2107913381751730352
+- Good engineering still matters. Imagining a rewrite is a way to work backwards to improvements in your existing legacy code. https://x.com/poteto/status/2107920188494709220 https://x.com/poteto/status/2107925381340905809
+- Possible measures: % of agent-written code that gets merged, revert/rework rate, and human messages per accepted PR (less is better). https://x.com/poteto/status/2107923381001781362
+- Verification is token efficiency: agents that can't verify their work leave bugs and rework that cost more tokens and unhappy customers. Few codebases have genuinely good test suites; TDD would be the cheapest way to lower ttr. https://x.com/poteto/status/2107922229711585334 https://x.com/poteto/status/2107919330931609601 https://x.com/poteto/status/2107918163111477487
+- I only care about building the best product for users; whether it's our model or someone else's doesn't bother me (my own opinion), though I hope our next models are competitive. https://x.com/poteto/status/2107809560388108392
+- Be a power user of what you build so your feedback and changes actually improve it for users. Criticism makes us better. https://x.com/poteto/status/2107933215348637841 https://x.com/poteto/status/2107997946268836237
+- Close the loop: have your bot monitor X for product feedback, send feature requests to the issue tracker and bug reports to a cloud agent or project to triage and fix. https://x.com/poteto/status/2107963437154435182
+
 ## Product culture
 - You can see a dysfunctional culture in the app chrome. A tab often means someone's OKR. People add features and rarely delete them, worse now that agents make tabs cheap. Users notice you ship your org chart. Fix the culture before the product. https://x.com/poteto/status/2106202416853262408
 - While we're building for other humans, humans should still make product decisions. https://x.com/poteto/status/2106818232787276178

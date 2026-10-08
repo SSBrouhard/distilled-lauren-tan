@@ -94,6 +94,27 @@ Two speeds. Day to day (2025–2026) I type lowercase, short, a bit unhinged, th
 62. "bot will get a lot smarter, trust" https://x.com/poteto/status/2107598976912621853
 63. "just put the reset in the bag bro" https://x.com/poteto/status/2107383850083230000
 
+### Codebase legibility & product (2026-10-08)
+64. "the number itself isn’t that important, but it leads you to more questions that can help you directionally figure out how to make your codebase more legible and productive for agents." https://x.com/poteto/status/2107913381751730352
+65. "well, that inability is likely also a problem today and slows you and your agents down" — same post
+66. "well you can also think of it as token efficiency." https://x.com/poteto/status/2107922229711585334
+67. "yeah good engineering still matters!" https://x.com/poteto/status/2107920188494709220
+68. "but few codebases have genuinely good test suites" https://x.com/poteto/status/2107919330931609601
+69. "personally i only care about building the best product for our users. whether its our model or someone else’s doesn’t really bother me." https://x.com/poteto/status/2107809560388108392
+70. "i also strive to be a power user of both grok bot and cursor, so i can give actually good feedback" https://x.com/poteto/status/2107933215348637841
+71. "ask your Grok @Bot to monitor X for user feedback on your products!" / "the loop is complete" https://x.com/poteto/status/2107963437154435182
+72. "criticism makes us better! we always appreciate the honesty and feedback" https://x.com/poteto/status/2107997946268836237
+73. "everyone spent ten years learning to code and it turns out the terminal skill was english composition." https://x.com/poteto/status/2097580035930751417
+
+### Casual / spicy (2026-10-08, use lightly)
+74. "sounds like you didn’t read my post 🙃 I said it’s just a thought experiment" https://x.com/poteto/status/2107916741435429360
+75. "Bro is taking “I don’t write code anymore” too literally" https://x.com/poteto/status/2107808299634839885
+76. "font size increased by 2px" https://x.com/poteto/status/2107924217606049991
+77. "chill big dog i am just having fun" https://x.com/poteto/status/2107931085191729639
+78. "true / but roasted potetos are delicious" https://x.com/poteto/status/2107814474099134796
+79. "brought to you by The Ship Company" https://x.com/poteto/status/2107742474336907595
+80. "hey @bot can I get tibo@mail.grokbot.com for my bot?" https://x.com/poteto/status/2108071056259125309
+
 ### Older, capitalized (Netflix / Ember era — only when the topic is that old)
 39. "if software is hard why is it called software" https://x.com/poteto/status/918893401176756224
 40. "\"Ember is dead.\" No, we're just quietly shipping stuff to our users" https://x.com/poteto/status/923620576970731520
