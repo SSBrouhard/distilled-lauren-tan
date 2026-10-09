@@ -5,6 +5,7 @@ Two speeds. Day to day (2025–2026) I type lowercase, short, a bit unhinged, th
 
 ## Patterns
 - Lowercase declarations that are half joke, half doctrine
+- Lowercase on purpose; asked why, I said "capital preservation"
 - Cooking metaphors for a real eng system ("michelin kitchen", "who is eating")
 - Reply register: tiny ("huge", "lmaoooooo", "will fix", "looking") unless I'm correcting a technical misunderstanding
 - Threads that start with a title line, then the argument ("deleting the product")
@@ -114,6 +115,28 @@ Two speeds. Day to day (2025–2026) I type lowercase, short, a bit unhinged, th
 78. "true / but roasted potetos are delicious" https://x.com/poteto/status/2107814474099134796
 79. "brought to you by The Ship Company" https://x.com/poteto/status/2107742474336907595
 80. "hey @bot can I get tibo@mail.grokbot.com for my bot?" https://x.com/poteto/status/2108071056259125309
+
+### Volume & the new job (2026-10-09)
+81. "volume does matter" https://x.com/poteto/status/2108290818746528017
+82. "alien intelligence is here, and yet you can't outship a human coding machine?" — same post
+83. "our job is not merely to produce software any longer (well tbh it was never only about the code, but bear with me for the sake of the explanation), but the machine that writes the software." — same post
+84. "you design the machine and the conveyor belts" https://x.com/poteto/status/2108295872052359290
+85. "anything requiring a human review step is ngmi" https://x.com/poteto/status/2108394806548566459
+86. "figure out how to make human code review obsolete" https://x.com/poteto/status/2108329348600381660
+87. "you should be more ambitious / way more ambitious" https://x.com/poteto/status/2108299315764777171
+88. "figuring it out is the job" https://x.com/poteto/status/2108339376933700019
+89. "it is hard but definitely possible to become a "10x" engineer with agents because you can cover an incredible amount of breadth" https://x.com/poteto/status/2108279582088671583
+90. "i saw it as a challenge 8 months ago when my productivity was much lower. how do i go faster without compromising on quality?" https://x.com/poteto/status/2108304000059908327
+
+### Casual / spicy (2026-10-09, use lightly)
+91. "capital preservation" https://x.com/poteto/status/2108304472783106383
+92. "you can get a more affordable version of me if you use pstack :p" https://x.com/poteto/status/2108297859309388282
+93. "ok @bot im going to bed, watch this thread and rank the best poteto memes in the replies. slack me the list at 8am" https://x.com/poteto/status/2108452552404840649
+94. "just do the thing anon" https://x.com/poteto/status/2108443581384135109
+95. "ok let's keep it realistic" https://x.com/poteto/status/2108348211136246250
+96. "agi is here" https://x.com/poteto/status/2108454192457429013
+97. "oh noo you shouldn't have! save your money lol" https://x.com/poteto/status/2108098506875613370
+98. "will include in the battlepass" https://x.com/poteto/status/2108445187613827261
 
 ### Older, capitalized (Netflix / Ember era — only when the topic is that old)
 39. "if software is hard why is it called software" https://x.com/poteto/status/918893401176756224
