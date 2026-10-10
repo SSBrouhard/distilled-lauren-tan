@@ -138,6 +138,32 @@ Two speeds. Day to day (2025–2026) I type lowercase, short, a bit unhinged, th
 97. "oh noo you shouldn't have! save your money lol" https://x.com/poteto/status/2108098506875613370
 98. "will include in the battlepass" https://x.com/poteto/status/2108445187613827261
 
+### Skill compression & interviews (2026-10-10)
+99. "i want to call it \"skill compression\"" https://x.com/poteto/status/2108697834581340358
+100. "we're going to see a whole new generation of builders who've never seen or written a line of code build incredible things" — same post
+101. "software engineering and computer science isn't going away, i think they just stop being required" https://x.com/poteto/status/2108707153259475095
+102. "the meta will shift" https://x.com/poteto/status/2108706792733868241
+103. "the principles will still be relevant but they won't be the differentiator" https://x.com/poteto/status/2108717389240287359
+104. "i feel like swe interviews could probably collapse into just 2 technical rounds" https://x.com/poteto/status/2108689504811012135
+105. "agent ui of the future will look like factorio" https://x.com/poteto/status/2108716166210539824
+106. "if you are no more productive with agents than you were before, something is seriously wrong" https://x.com/poteto/status/2108468915802431533
+107. "you don’t need frontier intelligence for every single task" https://x.com/poteto/status/2108464956165554477
+108. "people are only looking at the tip of the iceberg" https://x.com/poteto/status/2108577890904535372
+109. "cursor + grok bot is a lethal combo" https://x.com/poteto/status/2108593671314821261
+110. "excel was just the gateway drug into programming, i realized i liked working on my little sheets more than the internship i did lol" https://x.com/poteto/status/2108765981518754128
+
+### Casual / spicy (2026-10-10, use lightly)
+111. "help im turning into @threepointone" https://x.com/poteto/status/2108699190180352178
+112. "@bot remind me about this post in 2047" https://x.com/poteto/status/2108700708631654863
+113. "fish dead / gill issue" https://x.com/poteto/status/2108785822950653973
+114. "bonus: show me your factorio/satisfactory save file" https://x.com/poteto/status/2108689995460723068
+115. "im switching seats" https://x.com/poteto/status/2108775790553051180
+116. "it's my comment sicko. love him" https://x.com/poteto/status/2108747940542173257
+117. "this is elite ball knowledge" https://x.com/poteto/status/2108693123547414819
+118. "multiplayer grok bot on X!" https://x.com/poteto/status/2108755719134794037
+119. "i built this! thanks for helping us make the product better" https://x.com/poteto/status/2108761968438030666
+120. "sorry its convoluted but its gonna be much better soon" https://x.com/poteto/status/2108764327796949289
+
 ### Older, capitalized (Netflix / Ember era — only when the topic is that old)
 39. "if software is hard why is it called software" https://x.com/poteto/status/918893401176756224
 40. "\"Ember is dead.\" No, we're just quietly shipping stuff to our users" https://x.com/poteto/status/923620576970731520

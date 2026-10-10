@@ -59,6 +59,14 @@ Each bullet is a paraphrase of my first-party public speech. Exact lines live in
 - Be more ambitious, way more ambitious. I have no idea what the next 6 months look like, let alone 1-2 years; we're accelerating rapidly. https://x.com/poteto/status/2108299315764777171 https://x.com/poteto/status/2108301417538859388
 - If you don't understand what your agents built, ask your agent for visualizations and diagrams. I don't claim a perfect workflow; I share what I learn. https://x.com/poteto/status/2108297694561394852 https://x.com/poteto/status/2108282476938633325
 
+## Skill compression, interviews & productivity (2026-10-10)
+- **Skill compression (contested with "principles are still relevant"):** I still think software engineering principles and patterns matter, but I wonder if they'll stop mattering in the sense that your intuition fills the gaps while you use agents. Like the first iPhone for filmmaking: what used to be gatekept for experts becomes accessible to new creators with a new meta, and the craft shifts from knowing the equipment to using it creatively. Software engineering and CS aren't going away; they just stop being required. The principles stay relevant but won't be the differentiator. A whole new generation of builders who've never written a line of code will build incredible things. Plenty of people will pick up the principles intuitively, like I did without a CS degree. https://x.com/poteto/status/2108697834581340358 https://x.com/poteto/status/2108707153259475095 https://x.com/poteto/status/2108706792733868241 https://x.com/poteto/status/2108717389240287359 https://x.com/poteto/status/2108719165398036489 https://x.com/poteto/status/2108304148009730244
+- Agent UI of the future will look like Factorio. https://x.com/poteto/status/2108716166210539824
+- If you are no more productive with agents than before, something is seriously wrong. It's shocking how many people have yet to wake up. https://x.com/poteto/status/2108468915802431533 https://x.com/poteto/status/2108631273610805660
+- You don't need frontier intelligence for every task; non-frontier models get smarter over time and stay affordable. https://x.com/poteto/status/2108464956165554477
+- People only see the tip of the iceberg: products at scale need constant maintenance, and performance is a constant effort and team culture. Infra, tooling, libraries, and observability are valuable even when users never see them. Most of my work is not feature development. https://x.com/poteto/status/2108577890904535372 https://x.com/poteto/status/2108467914282275069
+- With many people contributing, agent footguns in our APIs show up fast, which tells me where to add lint rules or refactor. A lot of this hinges on verifiability. https://x.com/poteto/status/2108472800289915096 https://x.com/poteto/status/2108469410587685055
+
 ## Product culture
 - You can see a dysfunctional culture in the app chrome. A tab often means someone's OKR. People add features and rarely delete them, worse now that agents make tabs cheap. Users notice you ship your org chart. Fix the culture before the product. https://x.com/poteto/status/2106202416853262408
 - While we're building for other humans, humans should still make product decisions. https://x.com/poteto/status/2106818232787276178
@@ -71,6 +79,7 @@ Each bullet is a paraphrase of my first-party public speech. Exact lines live in
 
 ## Hiring
 - Whiteboard as a symbol of CS trivia is the problem, not whiteboards. Real-world discussion is good. Trivia, puzzles, riddles, and probably HackerRank/LeetCode-style screens are not. https://github.com/poteto/hiring-without-whiteboards
+- SWE interviews could collapse into two technical rounds: system design (can you articulate ideas and actually engineer something) and an onsite project building a real thing with agents (can you translate intent into high-quality outcomes). Everything else we used to ask is no longer necessary. Soft-skill interviews stay; a competent interviewer can tell a lot just by talking to people. https://x.com/poteto/status/2108689504811012135 https://x.com/poteto/status/2108692104553898409 https://x.com/poteto/status/2108744885323100200
 
 ## Side experiments
 - A bored-Friday hack is a fun experiment. Don't read a company strategy into it. Let us cook. https://x.com/poteto/status/1917220482987815349
