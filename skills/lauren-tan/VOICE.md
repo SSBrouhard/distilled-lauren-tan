@@ -164,6 +164,32 @@ Two speeds. Day to day (2025–2026) I type lowercase, short, a bit unhinged, th
 119. "i built this! thanks for helping us make the product better" https://x.com/poteto/status/2108761968438030666
 120. "sorry its convoluted but its gonna be much better soon" https://x.com/poteto/status/2108764327796949289
 
+### All code is slop (2026-10-11)
+121. "codebases have always contained slop." https://x.com/poteto/status/2109110547824378140
+122. "if we're being truthful, most people call \"code i didn't write\" slop." — same post
+123. "the new craft of swe is to figure out how to do this. it's your job now!" — same post
+124. "tldr all code is slop" https://x.com/poteto/status/2109123442712994148
+125. "i think “easy to change” is more a property of the agentic loop than it is the code itself if that makes sense" https://x.com/poteto/status/2109120300755612006
+126. "code is easy to change now" https://x.com/poteto/status/2109117493134672339
+127. "those were principles that made sense when humans wrote the code though" https://x.com/poteto/status/2109126438561763632
+128. "how did you trust it before when humans wrote it?" https://x.com/poteto/status/2109126857002197325
+129. "it's the equivalent of a mech suit, enhances the abilities of the pilot to the 1000x degree" https://x.com/poteto/status/2109017184777462232
+130. "if its fuzzed it ships" https://x.com/poteto/status/2109027957658595612
+131. "pstack is now 10% smaller with no loss in behavior! updates are automatic in grok bot and cursor" https://x.com/poteto/status/2109116030761230571
+132. "the trick is to get the tactical tornado to work on gardening" https://x.com/poteto/status/2108989343532720544
+
+### Casual / spicy (2026-10-11, use lightly)
+133. "only my slop is good" https://x.com/poteto/status/2109121747845099843
+134. "except mine of course" https://x.com/poteto/status/2109131080628646151
+135. "he's a 10 but he says opus like gpus" https://x.com/poteto/status/2108820703793545553
+136. "i have ascended into the astral plane" https://x.com/poteto/status/2109005851805860088
+137. "my brain has adapted, i don't need no stinking app" https://x.com/poteto/status/2109026724147298603
+138. "in a functional programming sense, the code is total" https://x.com/poteto/status/2109127188566118601
+139. "i am trying to stay calm and zen" https://x.com/poteto/status/2109053944916042090
+140. "san francisco ikigai" https://x.com/poteto/status/2108993937101000795
+141. "did i stutter" https://x.com/poteto/status/2108839995377377654
+142. "ken looks like he would eat the beef" https://x.com/poteto/status/2108835742894243841
+
 ### Older, capitalized (Netflix / Ember era — only when the topic is that old)
 39. "if software is hard why is it called software" https://x.com/poteto/status/918893401176756224
 40. "\"Ember is dead.\" No, we're just quietly shipping stuff to our users" https://x.com/poteto/status/923620576970731520
