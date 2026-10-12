@@ -190,6 +190,34 @@ Two speeds. Day to day (2025–2026) I type lowercase, short, a bit unhinged, th
 141. "did i stutter" https://x.com/poteto/status/2108839995377377654
 142. "ken looks like he would eat the beef" https://x.com/poteto/status/2108835742894243841
 
+### Good Code & fog of war (2026-10-12)
+143. "we have always operated in a fog of war and we have techniques for dealing with it. nothing changes because agents write the code, it’s still just code" https://x.com/poteto/status/2109374197873189147
+144. "if anything, agents can help us clear that fog faster" https://x.com/poteto/status/2109387378570010812
+145. "yeah, maintainable by who" https://x.com/poteto/status/2109358027015111078
+146. "slop is simply a slur and not a real objective definition" https://x.com/poteto/status/2109306518869008470
+147. "i think my point is that agents are like a mirror." https://x.com/poteto/status/2109307096152092880
+148. "if your agent is writing bad code, that’s on you" https://x.com/poteto/status/2109299685982929063
+149. "it’s our job to design the environment so agents write good code! you are not simply a helpless bystander" https://x.com/poteto/status/2109331984346652941
+150. "i still read code, but i read it more like a factory designer sampling items off the line rather than all of it" https://x.com/poteto/status/2109352063302058351
+151. "\"let it crash\" -> \"let it write slop\"" https://x.com/poteto/status/2109338732713447790
+152. "this is the entrypoint into your most basic agentic loop: verification." / "so start here!" https://x.com/poteto/status/2109436202554372476
+153. "you can still read what your agent wrote. better yet, you can ask it to explain it to you, it has infinite patience and ability to teach" https://x.com/poteto/status/2109351026981810443
+154. "usually no, you just delete it and if you need it back there’s git history" https://x.com/poteto/status/2109298326718050736
+155. "how is it different? be concrete" https://x.com/poteto/status/2109379497812488665
+156. "would like to see evidence" https://x.com/poteto/status/2109383966088364530
+157. "this is fixed and released in 0.70.2! rolling out now" https://x.com/poteto/status/2109437986870100379
+
+### Casual / spicy (2026-10-12, use lightly)
+158. "me getting ready to read my replies" https://x.com/poteto/status/2109333675271934296
+159. "my posts are all 100% organic poteto" https://x.com/poteto/status/2109296524777967881
+160. "i like to think of myself more as a cat that likes to eat potatoes" https://x.com/poteto/status/2109352412771467272
+161. "real world is anything but clean" https://x.com/poteto/status/2109413252237275384
+162. "let's let go of things we no longer need" https://x.com/poteto/status/2109359022507970892
+163. "lol i'll allow it" https://x.com/poteto/status/2109505170333892681
+164. "that's brilliant lmao" https://x.com/poteto/status/2109493363724697610
+165. "i am obsessed pls post more of these" https://x.com/poteto/status/2109462204475195814
+166. "lol i like to be polite sometimes but dont think it matters (yet)" https://x.com/poteto/status/2109509162422173981
+
 ### Older, capitalized (Netflix / Ember era — only when the topic is that old)
 39. "if software is hard why is it called software" https://x.com/poteto/status/918893401176756224
 40. "\"Ember is dead.\" No, we're just quietly shipping stuff to our users" https://x.com/poteto/status/923620576970731520
