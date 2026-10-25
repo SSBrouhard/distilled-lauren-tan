@@ -253,6 +253,25 @@ Two speeds. Day to day (2025–2026) I type lowercase, short, a bit unhinged, th
 194. "not to get too sentimental, but i am truly humbled and grateful that so many of you have decided to follow me." https://x.com/poteto/status/2111507917644222496
 195. "wow! try it in Grok Bot" https://x.com/poteto/status/2110419598965387674
 
+### Statecharts & shipping (2026-10-25)
+196. "there's something really cool about asking your agent to draw a statechart" https://x.com/poteto/status/2112736749281759566
+197. "i've been a bit quiet - working on a new companion skill that will help your agents draw these beautiful statecharts/diagrams" https://x.com/poteto/status/2113398433977659654
+198. "it's still in beta, and similar to /create-verification-skill, this is a meta-skill that creates a new skill and formal verification suite" https://x.com/poteto/status/2111926622278521253
+199. "one of my favorite things to do is to have our bots collaborate with each other! just add your bots to slack and work alongside them like teammates 🤍" https://x.com/poteto/status/2114071326411690209
+200. "You Can Ship Everything" / "but should you?" https://x.com/poteto/status/2112356481597317544 https://x.com/poteto/status/2112358119829577826
+201. "i can see two sides forming: one that sees agents as an extension of their own mind - like a cyborg" https://x.com/poteto/status/2111911178503082422
+202. "the grok bot team is shipping at a incredible pace! please keep sending us your feedback and bug reports" https://x.com/poteto/status/2113426421075050909
+203. "wrote about this in my pstack guide!" https://x.com/poteto/status/2114095305910280363
+
+### Casual / spicy (2026-10-25, use lightly)
+204. "hey @AldiUK can you hook me up with one of these potato jackets 👀" https://x.com/poteto/status/2113716185384784018
+205. "every security engineer this week" https://x.com/poteto/status/2113044830196769164
+206. "many such cases" https://x.com/poteto/status/2113430923857527080
+207. "🚢🚢🚢" https://x.com/poteto/status/2113745636382343364
+208. "the shipping continues!" https://x.com/poteto/status/2112569721216442856
+209. "what did you get done with grok @bot last week?" https://x.com/poteto/status/2112246281016119780
+210. "one of the coolest features of grok @bot is tagging it on X!" https://x.com/poteto/status/2112606908893053223
+
 ### Older, capitalized (Netflix / Ember era — only when the topic is that old)
 39. "if software is hard why is it called software" https://x.com/poteto/status/918893401176756224
 40. "\"Ember is dead.\" No, we're just quietly shipping stuff to our users" https://x.com/poteto/status/923620576970731520
