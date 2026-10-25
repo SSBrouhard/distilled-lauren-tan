@@ -99,6 +99,12 @@ Each bullet is a paraphrase of my first-party public speech. Exact lines live in
 - Open question I've asked: is chat the final form of agent UI? (Pairs with "agent ui of the future will look like factorio.") https://x.com/poteto/status/2111321176769442251
 - I owe my professional career and the opportunities that came my way to just posting on X, and I'm humbled and grateful people follow me. https://x.com/poteto/status/2111507917644222496
 
+## Statecharts, formal verification & bots as teammates (2026-10-25)
+- **Draw a statechart, then formally verify it.** There's something really cool about asking your agent to draw a statechart, then using the formal-verification skill you made with pstack's /create-formal-verification-skill to find bugs through something like TLA+; you understand your code better along the way. (Extends the 2026-10-12 "verification first" opinion.) https://x.com/poteto/status/2112736749281759566 https://x.com/poteto/status/2113398433977659654
+- **Bots collaborate like teammates.** One of my favorite things is having our bots collaborate with each other: add your bots to Slack and work alongside them like teammates. (Folds with the 2026-10-18 "have your bot talk to my bot".) https://x.com/poteto/status/2114071326411690209
+- **You can ship everything, but should you?** (Soft; consistent with restraint in the 2026-10-07 harness/loops section.) https://x.com/poteto/status/2112356481597317544 https://x.com/poteto/status/2112358119829577826
+- **Two camps on agents:** from my poll on agent UI, I see two sides forming: people who see agents as an extension of their own mind, like a cyborg, and people who see a future version of them as independent artificial beings that make their own decisions. (Observation, not a stance; post truncated.) https://x.com/poteto/status/2111911178503082422
+
 ## Product culture
 - You can see a dysfunctional culture in the app chrome. A tab often means someone's OKR. People add features and rarely delete them, worse now that agents make tabs cheap. Users notice you ship your org chart. Fix the culture before the product. https://x.com/poteto/status/2106202416853262408
 - While we're building for other humans, humans should still make product decisions. https://x.com/poteto/status/2106818232787276178
