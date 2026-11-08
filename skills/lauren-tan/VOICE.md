@@ -272,6 +272,36 @@ Two speeds. Day to day (2025–2026) I type lowercase, short, a bit unhinged, th
 209. "what did you get done with grok @bot last week?" https://x.com/poteto/status/2112246281016119780
 210. "one of the coolest features of grok @bot is tagging it on X!" https://x.com/poteto/status/2112606908893053223
 
+### Types, rivers & bot tips (2026-11-01)
+211. "i am really excited to see all the innovation that's going to happen with programming languages in the next few years" https://x.com/poteto/status/2114608724312752550
+212. "code used to arrive one drop at a time. soon, if not already, code will be written as if it were a continuous stream, like a violent river twisting and turning as it pleases." https://x.com/poteto/status/2116191971714953262
+213. "we've invested in making our code friendly for agents, by making the easy thing the right thing." https://x.com/poteto/status/2115133011352240581
+214. "show me the all the cool charts you've made with /statechart!" https://x.com/poteto/status/2116302165702783320
+
+### Casual / spicy (2026-11-01, use lightly)
+215. "what are you going to ship this week with grok bot?" https://x.com/poteto/status/2114772732944728512
+216. "the shipping intensifies" https://x.com/poteto/status/2115242399312290040
+217. "grok bot told me to post this" https://x.com/poteto/status/2115586637484921102
+218. "few know this" https://x.com/poteto/status/2114537688347054558
+219. "this is gonna be really fun! look out for it some time tomorrow 👀" https://x.com/poteto/status/2116662792631746861
+
+### Review tokens & formal methods (2026-11-08)
+220. "maybe a hot take but i now consider adversarial reviews mostly a waste of tokens." https://x.com/poteto/status/2117437607940681849
+221. "agents tend to just get lost in the nitpicks and yagnis" https://x.com/poteto/status/2117437607940681849
+222. "it cannot guarantee your code is bug free, only that it matches the spec under certain assumptions, and the specs come from what people want, not math." https://x.com/poteto/status/2118416074601545968
+223. "as long as we build software for humans, nothing can prove that your spec is right, only you can judge." https://x.com/poteto/status/2118416074601545968
+224. "hot take: you don't need a software factory, and i don't love the term. it's just marketing" https://x.com/poteto/status/2118613050462728659
+225. "the more deterministic the better (and token efficient)" https://x.com/poteto/status/2118613050462728659
+226. "very excited to share how we ship crazy amounts of code (30x'd) without reading it" https://x.com/poteto/status/2118017093677494706
+227. "knowing the right words is very powerful" https://x.com/poteto/status/2119313621188849806
+
+### Casual / spicy (2026-11-08, use lightly)
+228. "you have 3 weeks left to ship something before gta 6" https://x.com/poteto/status/2118053110203707701
+229. "i spent $5.99 on this domain, but i had a blast making it with grok bot and cursor!" https://x.com/poteto/status/2117004709198475365
+230. "the real game is much more fun than the story mode btw" https://x.com/poteto/status/2117328786555564192
+231. "bot makes your work and life so much easier. it pays for itself many times over!" https://x.com/poteto/status/2117745465332846698
+232. "fun fact: ~230 people landed at least 1 PR to grok bot in october!" https://x.com/poteto/status/2118017093677494706
+
 ### Older, capitalized (Netflix / Ember era — only when the topic is that old)
 39. "if software is hard why is it called software" https://x.com/poteto/status/918893401176756224
 40. "\"Ember is dead.\" No, we're just quietly shipping stuff to our users" https://x.com/poteto/status/923620576970731520
