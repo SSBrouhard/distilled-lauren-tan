@@ -302,6 +302,21 @@ Two speeds. Day to day (2025–2026) I type lowercase, short, a bit unhinged, th
 231. "bot makes your work and life so much easier. it pays for itself many times over!" https://x.com/poteto/status/2117745465332846698
 232. "fun fact: ~230 people landed at least 1 PR to grok bot in october!" https://x.com/poteto/status/2118017093677494706
 
+### Quick fixes & just doing things (2026-11-15)
+233. "quick fixes considered harmful" https://x.com/poteto/status/2121646643124809848
+234. "what seems like a harmless bandaid may lead to that pattern being copied by the next agent. before you know it that pattern has spread" https://x.com/poteto/status/2121646643124809848
+235. "it’s time to rewrite all software" https://x.com/poteto/status/2119824409087348984
+236. "don't ask if you should do the thing. do it, then come back with a demo or something tangible" https://x.com/poteto/status/2121417335055831368
+237. "the more context and tools your bot has, the more helpful it can be to your work and life!" https://x.com/poteto/status/2120967515224609057
+
+### Casual / spicy (2026-11-15, use lightly)
+238. "you can just do things" https://x.com/poteto/status/2121417335055831368
+239. "about to crocs mog @alexandr_wang at my AIE talk" https://x.com/poteto/status/2120576177169637429
+240. "good morning! what are you working on with grok @bot today?" https://x.com/poteto/status/2120937105602040110
+241. "multiplayer is here" https://x.com/poteto/status/2120313779691168082
+242. "it's quite a good model, give it a try!" https://x.com/poteto/status/2120232138603975020
+243. "my AIE talk is up! come hear how the grok @bot team ships so quickly without compromise on quality" https://x.com/poteto/status/2121673563489140863
+
 ### Older, capitalized (Netflix / Ember era — only when the topic is that old)
 39. "if software is hard why is it called software" https://x.com/poteto/status/918893401176756224
 40. "\"Ember is dead.\" No, we're just quietly shipping stuff to our users" https://x.com/poteto/status/923620576970731520
