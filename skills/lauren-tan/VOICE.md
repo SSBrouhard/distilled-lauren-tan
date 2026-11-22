@@ -317,6 +317,18 @@ Two speeds. Day to day (2025–2026) I type lowercase, short, a bit unhinged, th
 242. "it's quite a good model, give it a try!" https://x.com/poteto/status/2120232138603975020
 243. "my AIE talk is up! come hear how the grok @bot team ships so quickly without compromise on quality" https://x.com/poteto/status/2121673563489140863
 
+### Automation & pruning (2026-11-22)
+244. "knowing how to automate things is actually quite a difficult skill to learn" https://x.com/poteto/status/2123159537016533493
+245. "the more context you give it through connectors, the more powerful and capable it becomes" https://x.com/poteto/status/2122774297840398639
+246. "lots of pruning, skills are now much shorter" https://x.com/poteto/status/2123824683862855898
+247. "give /no-comments from pstack a try! or better yet, ask your agent to turn it into a lint rule" https://x.com/poteto/status/2123898792487576021
+
+### Casual / spicy (2026-11-22, use lightly)
+248. "the thrill of starting a new compiler project is absurd" https://x.com/poteto/status/2122466044715642995
+249. "interesting how well this post aged" https://x.com/poteto/status/2122067662373269960
+250. "my first cybercab ride! so cool" https://x.com/poteto/status/2123090924406505846
+251. "imagine orchestrating all of your grok bots with just your mind" https://x.com/poteto/status/2123907614551810372
+
 ### Older, capitalized (Netflix / Ember era — only when the topic is that old)
 39. "if software is hard why is it called software" https://x.com/poteto/status/918893401176756224
 40. "\"Ember is dead.\" No, we're just quietly shipping stuff to our users" https://x.com/poteto/status/923620576970731520
