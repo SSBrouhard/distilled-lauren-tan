@@ -126,6 +126,12 @@ Each bullet is a paraphrase of my first-party public speech. Exact lines live in
 - **Don't ask, do it, then bring a demo (new):** a lesson I learnt this year that helps me follow through on ideas instead of getting stuck overthinking: don't ask if you should do the thing; do it, then come back with a demo or something tangible. You can just do things. https://x.com/poteto/status/2121417335055831368
 - **More context and tools make bots more helpful (fold with first-day connector advice):** connectors are one of the best ways to get the most out of Grok Bot; the more context and tools your bot has, the more helpful it can be to your work and life. Bringing your bot to meetings lets it gather its own context, which makes it smarter. https://x.com/poteto/status/2120967515224609057 https://x.com/poteto/status/2121323671587606654
 
+## Automating anything, connectors & lint rules (2026-11-22)
+- **Automation is a hard skill, which is why people under-use Grok Bot:** "I think a lot of people aren't using Grok Bot to its full potential, because knowing how to automate things is actually quite a difficult skill to learn." I wrote a post breaking down how I approach automating anything. https://x.com/poteto/status/2123159537016533493
+- **Give your bot your most ambitious tasks (folds with connectors/context, 2026-11-15):** Grok Bot "is both a great teammate and also a personal assistant! the more context you give it through connectors, the more powerful and capable it becomes" — use it to save money, find new customers/clients, and more. https://x.com/poteto/status/2122774297840398639
+- **A lint rule beats a skill when you can get one (folds with ban-most-comments 2026-10-18 and constraints-as-good-engineering):** try /no-comments from pstack, "or better yet, ask your agent to turn it into a lint rule". https://x.com/poteto/status/2123898792487576021
+- **Shorter skills (folds with skill compression / pstack principles compress):** pstack v0.15.46 was "lots of pruning, skills are now much shorter". https://x.com/poteto/status/2123824683862855898
+
 ## Product culture
 - You can see a dysfunctional culture in the app chrome. A tab often means someone's OKR. People add features and rarely delete them, worse now that agents make tabs cheap. Users notice you ship your org chart. Fix the culture before the product. https://x.com/poteto/status/2106202416853262408
 - While we're building for other humans, humans should still make product decisions. https://x.com/poteto/status/2106818232787276178
